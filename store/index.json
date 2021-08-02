@@ -1,0 +1,39 @@
+{
+    "infoPlanets": [
+        {
+            "title": "Sun",
+            "desc": "The Sun is a yellow dwarf star, a hot ball of glowing gases at the heart of our solar system. Its gravity holds everything from the biggest planets to tiny debris in its orbit.",
+            "year": "230 MILLION EARTH YEARS"
+        },
+        {
+            "title": "Mercury",
+            "desc": "Mercury—the smallest planet in our solar system and closest to the Sun—is only slightly larger than Earth's Moon. Mercury is the fastest planet, zipping around the Sun every 88 Earth days.",
+            "year": "88 EARTH YEARS"
+        },
+        {
+            "title": "Venus",
+            "desc": "Venus spins slowly in the opposite direction from most planets. A thick atmosphere traps heat in a runaway greenhouse effect, making it the hottest planet in our solar system.",
+            "year": "225 EARTH YEARS"
+        },
+        {
+            "title": "Earth",
+            "desc": "Earth—our home planet—is the only place we know of so far that’s inhabited by living things. It's also the only planet in our solar system with liquid water on the surface.",
+            "year": "365.25 DAYS"
+        },
+        {
+            "title": "Mars",
+            "desc": "Mars is a dusty, cold, desert world with a very thin atmosphere. There is strong evidence Mars was—billions of years ago—wetter and warmer, with a thicker atmosphere.",
+            "year": "1.88 EARTH YEARS"
+        },
+        {
+            "title": "Jupiter",
+            "desc": "Jupiter is more than twice as massive than the other planets of our solar system combined. The giant planet's Great Red spot is a centuries-old storm bigger than Earth.",
+            "year": "11.86 EARTH YEARS"
+        },
+        {
+            "title": "Saturn",
+            "desc": "Adorned with a dazzling, complex system of icy rings, Saturn is unique in our solar system. The other giant planets have rings, but none are as spectacular as Saturn's.",
+            "year": "29.45 EARTH YEARS"
+        }
+    ]
+}
