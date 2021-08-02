@@ -1,5 +1,5 @@
-**DEMO**
-https://reactivegio.github.io/solar-system-react360/
+**DEMO:**
+  https://reactivegio.github.io/solar-system-react360/
 
 **Install and run**
 1.  npm install
