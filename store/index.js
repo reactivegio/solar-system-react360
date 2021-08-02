@@ -1,6 +1,7 @@
 import alt from './alt';
+import { asset, NativeModules } from 'react-360';
 import PlanetActions from '../actions/planetActions';
-
+const { AudioModule } = NativeModules;
 class PlanetStore {
   constructor() {
     this.bindListeners({
@@ -24,6 +25,10 @@ class PlanetStore {
             let otherPlanets = [];
             data.infoPlanets.filter(el => {
               if (el.title !== planet) return otherPlanets.push(el.title);
+            });
+
+            AudioModule.playOneShot({
+              source: asset('collect-success.mp3'),
             });
             this.setState({ currentPlanet: currentData, otherPlanets: otherPlanets });
           });
