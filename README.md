@@ -1,4 +1,4 @@
-** DEMO **
+**DEMO**
 https://reactivegio.github.io/solar-system-react360/
 
 **Install and run**
